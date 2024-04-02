@@ -1,5 +1,5 @@
 What is your year and major?
-4th year (current graduate) Stats major
+4th year (current graduate) Statistics major!!
 
 What are you most excited to learn in Stat 541?
 Build on my current knowledge to do cooler things (like interactive plots and more dynamic elements) with R.
